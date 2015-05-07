@@ -1,0 +1,6 @@
+# Region file format: DS9 version 4.1
+# Filename: ch1s_centered_bz128_bf3_wavg.fits
+global color=orange dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+box(1:22:17.603,+0:00:18.04,51757.4",9942.49",6.33222e-06) # text={SHELA}
+
